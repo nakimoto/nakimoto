@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Nanami's GitHub Banner](./assets/header.png)]
+[![Nanami's GitHub Banner](./assets/header.png)
 <!--
 **nakimoto/nakimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
