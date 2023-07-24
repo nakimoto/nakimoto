@@ -1,7 +1,7 @@
 
 
-<p align="center">
-    <img width="200" src="./assets/NK-2.png">
+<p align="left">
+    <img width="100" src="./assets/NK-2.png">
 </p>
 
 ### Hello! 👋
