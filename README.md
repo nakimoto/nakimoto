@@ -1,9 +1,4 @@
 
-
-<p align="left">
-    <img width="100" src="./assets/NK-2.png">
-</p>
-
 ### Hello! 👋
 
 I like learning new things and building cool things! Back-end engineer with interests in software infrastructure, architecture, automation, and supercomputing.
