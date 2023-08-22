@@ -8,4 +8,4 @@ I like learning new things and building cool things! Back-end engineer with inte
 Beyond my career as a Software Engineer, I have a whole host of hobbies. I spend my time adding new books to my home library, tinkering with circuit boards, and designing fictional machinery. 
 
 
-![Nanami's GitHub stats](https://github-readme-stats.vercel.app/api?username=nakimoto&repocard=algolia&show_icons=true)
+
