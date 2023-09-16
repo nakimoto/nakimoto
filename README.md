@@ -1,5 +1,5 @@
 
-### Hello! I'm Nanami 👋
+### Hello! I'm Nanami! Welcome to my personal GitHub👋
 
 I like learning new things and building cool things!
 I'm a back-end engineer with interests in software infrastructure, architecture,
