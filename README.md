@@ -2,8 +2,8 @@
 ### Hello! I'm Nanami! Welcome to my personal GitHub👋
 
 I like learning new things and building cool things!
-I'm a back-end engineer with interests in cloud computing, software and system architecture,
-automation, and supercomputing.
+I'm a back-end engineer with interests in cloud computing, supercomputing, software and system architecture,
+automation, and site reliability.
 
 Outside of work, I'm a strong advocate for open-source development and actively contribute to projects that benefit the developer community. 
 Collaboration and knowledge sharing are key values of mine. 
