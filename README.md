@@ -1,12 +1,12 @@
 
-### Hello! I'm Nanami! Welcome to my personal GitHub👋
+### Hello! I'm Nanami!👋
 
-I like learning new things and building cool things!
-I'm a back-end engineer with interests in cloud computing, supercomputing, software and system architecture,
-automation, and site reliability.
+🚀 Software Engineer with 5+ Years of Experience
 
-Outside of work, I'm a strong advocate for open-source development and actively contribute to projects that benefit the developer community. 
-Collaboration and knowledge sharing are key values of mine. 
+My background is in cloud computing, supercomputing, software and system architecture,
+automation, and site reliability. Throughout my career, I've worked with a wide range of technologies, such as Java, Python, C, C++, Kubernetes, Docker, Airflow, Kafka, AWS, Git, Linux, SQL, and more. 
 
-During my free time, I like to work on personal projects, experimenting with new tools and technologies.
+Outside of work, I'm a strong advocate for open-source development and actively contribute to projects that benefit the developer community. During my free time, I like to learn new things and work on personal projects. 
+I'm really interested in computational science and research, chip and computer part manufacturing, and quantum technologies. 
+
 I also like to add new books to my home library and have at-home spa days with my giant skincare collection!
