@@ -1,5 +1,5 @@
 
-### Hello! I'm Nanami!👋
+### Hello! I'm Nanami!👋 This account is currently undergoing reconstruction! 
 
 
 
