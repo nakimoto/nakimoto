@@ -1,2 +1,1 @@
 
-# retired account, visit @nkimotou 
